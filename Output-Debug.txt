@@ -1,0 +1,16 @@
+﻿'RockPaperScissors.exe' (Win32): Loaded 'C:\Users\m10da\OneDrive\Stalinis kompiuteris\Projects\RockPaperScissors\x64\Debug\RockPaperScissors.exe'. Symbols loaded.
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x40c8 has exited with code 0 (0x0).
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'RockPaperScissors.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x3e10 has exited with code 0 (0x0).
+The thread 0x2940 has exited with code 0 (0x0).
+The program '[14196] RockPaperScissors.exe' has exited with code 0 (0x0).
